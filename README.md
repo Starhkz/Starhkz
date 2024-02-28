@@ -1,7 +1,7 @@
 ### Welcome to Dumb Bot's GitHub Profile
 - 👋 Hi, I’m @Starhkz
 - 👀 I’m interested in Mobile Development with FLutter and Machine Learning(RL)
-- 🌱 I’m currently learning Artifitial General Intelligence 🧠 
+- 🌱 I’m currently learning Artificial General Intelligence 🧠 
 - 💞️ I’m looking to collaborate on anything fun and innovative 
 - 📫 How to reach me? Just Mail... princeemelife@gmail.com 
 
